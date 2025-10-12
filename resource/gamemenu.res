@@ -38,7 +38,7 @@
 	"HUDRepository"
 	{
 		"label"			"2"
-		"command"		"url https://github.com/PapaPeach/xhud"
+		"command"		"url https://github.com/Haru3S/AstraHUD"
 		"tooltip"		"GitHub"
 	}
 
