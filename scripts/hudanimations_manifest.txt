@@ -1,0 +1,8 @@
+"hudanimations_manifest"
+{
+	"file"	"resource/crosshairs/crosshair_animation.txt"
+	"file"	"scripts/hudanimations_null.txt"
+	"file"	"scripts/hudanimations_x.txt"
+	"file"	"scripts/hudanimations_tf.txt"
+	"file"	"scripts/hudanimations.txt"
+}

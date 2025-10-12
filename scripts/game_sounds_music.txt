@@ -1,0 +1,44 @@
+"GameSounds"
+{
+    "MainMenuMusic"
+    {
+        "channel"   "CHAN_STATIC"
+        "volume"    "1.0"
+        "soundlevel"    "SNDLVL_NONE"
+        "wave"  "sound/ui/gamestartup1.mp3
+    }
+}
+
+    // Override all event variants too
+    "StartupMusicHalloween"
+    {
+        "channel"   "CHAN_STATIC"
+        "volume"    "1.0"
+        "soundlevel" "SNDLVL_NONE"
+        "wave"      "sound/ui/gamestartup1.mp3"
+    }
+
+    "StartupMusicSmissmas"
+    {
+        "channel"   "CHAN_STATIC"
+        "volume"    "1.0"
+        "soundlevel" "SNDLVL_NONE"
+        "wave"      "sound/ui/gamestartup1.mp3"
+    }
+
+    "StartupMusicInvasion"
+    {
+        "channel"   "CHAN_STATIC"
+        "volume"    "1.0"
+        "soundlevel" "SNDLVL_NONE"
+        "wave"      "sound/ui/gamestartup1.mp3"
+    }
+
+    "StartupMusicEotl"
+    {
+        "channel"   "CHAN_STATIC"
+        "volume"    "1.0"
+        "soundlevel" "SNDLVL_NONE"
+        "wave"      "sound/ui/gamestartup1.mp3"
+    }
+}
