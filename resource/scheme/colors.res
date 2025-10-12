@@ -138,8 +138,8 @@ Scheme
 
 		"BuildMenuActive"								"219 232 253 255"
 
-		"DisguiseMenuIconRed"							"255 61 61 255"
-		"DisguiseMenuIconBlue"							"92 173 255 255"
+		"DisguiseMenuIconRed"							"255 94 135 255"
+		"DisguiseMenuIconBlue"							"94 156 255 255"
 
  		"MatchmakingDialogTitleColor"					"227 228 230 255"
  		"MatchmakingMenuItemBackground"					"30 30 30 255"
