@@ -25,6 +25,15 @@ A TF2 HUD originally designed by Peaches and modified by [Rayna](https://github.
 
 </p>
 
+### 🖼️ Screenshots
+
+> [!NOTE]
+> 🦗 *cricket noises*
+
+### 🎨 Palette
+**AstraHUD** features a higher contrast version of Catppuccin Mocha called **Astrappuccin**. This makes it easier to read and contrast better when looking at the scoreboard/leaderboard and or the actual game HUD itself.
+
+
 <table>
 	<thead>
 		<tr>
