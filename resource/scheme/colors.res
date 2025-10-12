@@ -3,11 +3,11 @@ Scheme
 	Colors
 	{
 		//===============================================================
-		// MENU COLORS
+		// MENU COLOURS (Astra-Catppuccin)
 		//===============================================================
-		"WhiteFull"										"255 255 255 255"
-		"WhiteLight"									"227 228 230 255"
-		"White"											"227 228 230 255"
+		"WhiteFull"										"219 232 253 255"
+		"WhiteLight"									"200 210 230 255"
+		"White"											"219 232 253 255"
 		"WhiteDark"										"172 173 175 255"
 		"WhiteGray"										"127 128 130 255"
 		"GrayLight"										"77 78 82 255"
@@ -21,10 +21,10 @@ Scheme
 		"TransparentBlack"								"0 0 0 150"
 		"TransparentLightBlack"							"0 0 0 100"
 		"TransparentGrayDarkest"						"27 28 30 200"
-		"TransparentWhite"								"227 228 230 150"
+		"TransparentWhite"								"219 232 253 150"
 
 		//===============================================================
-		// ITEM QUALITY COLORS
+		// ITEM QUALITY COLOURS
 		//===============================================================
 		"Normal"										"50 50 50 255"
 		"Genuine"										"115 215 140 255"
@@ -50,14 +50,14 @@ Scheme
 		"EliteGrade"									"255 130 130 255"
 
 		//===============================================================
-		// OTHER COLORS
+		// OTHER COLOURS
 		//===============================================================
-		"Orange"										"255 122 42 255"
-		"OrangeDim"										"80 150 255 255"
-		"LightOrange"									"80 150 255 255"
-		"GoalOrange"									"255 133 0"
-		"TFOrange"										"80 150 255 255"
-		"Purple"										"170 20 220 255"
+		"Orange"										"250 180 110 255"
+		"OrangeDim"										"180 140 250 255"
+		"LightOrange"									"180 140 250 255"
+		"GoalOrange"									"255 133 0 255"
+		"TFOrange"										"180 140 250 255"
+		"Purple"										"149 127 233 255"
 
 		"QuestGold"										"208 147 75 255"
 		"HalloweenThemeColor2015_Light"					"238 126 17 255"
@@ -78,7 +78,7 @@ Scheme
 		"PartyMember6"									"255 133 255 255"
 
 		"RedSolid"										"255 61 61 255"
-		"TransparentYellow"								"227 228 230 255"
+		"TransparentYellow"								"219 232 253 150"
 		"BrightYellow"									"255 255 0 255"
 		"GreenSolid"									"76 107 34 255"
 
@@ -86,27 +86,27 @@ Scheme
 
 		"HUDBlueTeam"									"92 173 255 255"
 		"HUDRedTeam"									"255 61 61 255"
-		"HUDSpectator"									"227 228 230 255"
+		"HUDSpectator"									"219 232 253 255"
 		"HUDBlueTeamSolid"								"92 173 255 255"
 		"HUDRedTeamSolid"								"255 61 61 255"
 		"HUDDeathWarning"								"255 61 61 255"
-		"HudWhite"										"227 228 230 255"
-		"HudOffWhite"									"227 228 230 255"
+		"HudWhite"										"219 232 253 255"
+		"HudOffWhite"									"219 232 253 255"
 		"HudBlack"										"0 0 0 255"
 		"ProgressBarBlue"								"90 125 140 255"
 
 		"CreditsGreen"									"95 150 50 255"
 
-		"Gray"											"227 228 230 255"
+		"Gray"											"219 232 253 255"
 
 		"Blank"											"0 0 0 0"
 		"ForTesting"									"255 0 0 32"
 		"ForTesting_Magenta"							"255 0 255 255"
 		"ForTesting_MagentaDim"							"255 0 255 120"
 
-		"HudPanelForeground"							"227 228 230 255"
-		"HudPanelBackground"							"227 228 230 255"
-		"HudPanelBorder"								"227 228 230 255"
+		"HudPanelForeground"							"219 232 253 255"
+		"HudPanelBackground"							"24 24 37 255"
+		"HudPanelBorder"								"219 232 253 255"
 
 		"HudProgressBarActive"							"227 228 230 255"
 		"HudProgressBarInActive"						"227 228 230 255"
@@ -117,7 +117,7 @@ Scheme
 		"HudTimerProgressInActive"						"50 50 50 255"
 		"HudTimerProgressWarning"						"240 30 30 255"
 
-		"HudTrainingHint"								"212 160 23 255"
+		"HudTrainingHint"								"250 180 110 255"
 
 		"TanDark"										"150 150 150 255"
 		"TanLight"										"230 230 230 255"
@@ -127,16 +127,16 @@ Scheme
 		"StoreGreen"									"35 185 30 255"
 
 		"LowHealthRed"									"255 0 0 255"
-		"ProgressOffWhite"								"227 228 230 255"
+		"ProgressOffWhite"								"219 232 253 255"
 		"ProgressBackground"							"0 0 0 50"
 		"HealthBgGrey"									"60 60 60 255"
 
-		"ProgressOffWhiteTransparent"					"227 228 230 255"
+		"ProgressOffWhiteTransparent"					"219 232 253 255"
 
 		"LabelDark"										"0 0 0 255"
 		"LabelTransparent"								"0 0 0 100"
 
-		"BuildMenuActive"								"227 228 230 255"
+		"BuildMenuActive"								"219 232 253 255"
 
 		"DisguiseMenuIconRed"							"255 61 61 255"
 		"DisguiseMenuIconBlue"							"92 173 255 255"
