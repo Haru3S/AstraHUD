@@ -1,6 +1,8 @@
 <h3 align="center">AstraHUD</h3>
 
-
+<p align=center>
+    <img src="https://raw.githubusercontent.com/Haru3S/AstraHUD/refs/heads/master/.github/src/AstraHUD%20Colours.svg" width="400" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Haru3S/AstraHUD/stargazers">
