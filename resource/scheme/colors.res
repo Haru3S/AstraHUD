@@ -404,7 +404,7 @@ Scheme
 
 		ToggleButton.SelectedTextColor					"White"
 
-		Tooltip.TextColor								"TransparentBlack"
+		Tooltip.TextColor								"219 232 253 255"
 		Tooltip.BgColor									"Red"
 
 		TreeView.BgColor								"TransparentBlack"
