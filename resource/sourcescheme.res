@@ -19,7 +19,7 @@ Scheme
 		"Black"		"15 16 18 255"
 
 		"OffWhite"			"166 173 200 255"
-		"DullWhite"			"186 194 222 255"
+		"DullWhite"			"24 24 237 255" // Changed this to attempt fix
 		"ControlBlack"	"32 32 32 255"
 
 		// TF2
@@ -52,7 +52,7 @@ Scheme
 		"ControlDarkBG"			"49 50 68 200"		// darker background color; used for background of scrollbars
 		"WindowBG"				"30 30 46 200"		// background color of text edit panes (chat, text entries, etc.)
 		"SelectionBG"			"91 91 255 200"		// background color of any selected text or menu item
-		"SelectionBG2"			"180 190 254 200"		// selection background in window w/o focus
+		"SelectionBG2"			"219 232 253 200"		// selection background in window w/o focus (also changed this to attempt to fix)
 		"ListBG"				"24 24 37 200"		// background of server browser, buddy list, etc.
 	}
 
