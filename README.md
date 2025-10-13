@@ -138,7 +138,7 @@ A TF2 HUD originally designed by Peaches and modified by [Rayna](https://github.
 		</tr>
 		<tr>
 			<td><img src="https://raw.githubusercontent.com/Haru3S/AstraHUD/refs/heads/master/.github/assets/astrappuccin_lavender.svg" width="23"/></td>
-			<td>Lavander</td>
+			<td>Lavender</td>
 			<td><code>#B4BEFE</code></td>
 			<td><code>rgb(180, 190, 254)</code></td>
 			<td><code>hsl(232, 97%, 85%)</code></td>
