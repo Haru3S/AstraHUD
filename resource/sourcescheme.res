@@ -5,53 +5,52 @@ Scheme
 	Colors
 	{
 		// custom
-		"Main Theme"			"80 150 255 255"
+		"Main Theme"			"91 91 255 255"
 
-		"DarkBG"					"20 21 23 255"
-		"DarkBGInactive"	"20 21 23 125"
-		"LightBG"					"46 47 50 255"
-		"LightBGInactive"	"46 47 50 125"
+		"DarkBG"			"24 24 37 255"
+		"DarkBGInactive"	"24 24 37 125"
+		"LightBG"			"48 47 54 255"
+		"LightBGInactive"	"48 47 54 125"
 
-		"White"		"227 228 230 255"
+		"White"		"219 232 253 255"
 		"Black"		"15 16 18 255"
-		"Blank"		"0 0 0 0"
 
-		"OffWhite"			"200 200 200 255"
-		"DullWhite"			"142 142 142 255"
+		"OffWhite"			"166 173 200 255"
+		"DullWhite"			"186 194 222 255"
 		"ControlBlack"	"32 32 32 255"
 
 		// TF2
-		"TFDarkBrown"							"60 56 53 255"
-		"TFDarkBrownTransparent"	"60 56 53 190"
-		"TFTanBright"							"236 227 203 150"
-		"TFTanLight"							"201 188 162 150"
-		"TFTanMedium"							"131 121 104 150"
+		"TFDarkBrown"							"24 24 36 255"
+		"TFDarkBrownTransparent"				"24 24 36 190"
+		"TFTanBright"							"88 91 112 150"
+		"TFTanLight"							"69 71 90 150"
+		"TFTanMedium"							"49 50 68 150"
 
-		"TFTanLightBright"	"229 223 211 90"
+		"TFTanLightBright"		"229 223 211 90"
 		"TFTanLightDark"		"96 90 78 90"
 
-		"TFOrangeBright"		"156 82 33 255"
+		"TFOrangeBright"		"255 151 87 255"
 
-		"TFTextBright"			"251 236 203 150"
+		"TFTextBright"				"219 232 253 150"
 		"TFTextLight"				"201 188 162 255"
-		"TFTextMedium"			"131 121 104 255"
-		"TFTextMediumDark"	"104 96 83 255"
+		"TFTextMedium"				"131 121 104 255"
+		"TFTextMediumDark"			"104 96 83 255"
 		"TFTextBlack"				"42 39 37 255"
 		"TFTextDull"				"131 121 104 255"
 
-		"TFMediumBrown"			"69 64 58 255"
+		"TFMediumBrown"				"69 64 58 255"
 
-		"QuickListBGDeselected"	"69 64 58 255"
-		"QuickListBGSelected"		"131 121 104 150"
+		"QuickListBGDeselected"		"30 30 46 255"
+		"QuickListBGSelected"		"91 91 255 150"
 
 		"Blank"		"0 0 0 0"
 
-		"ControlBG"			"76 88 68 200"		// background color of controls
-		"ControlDarkBG"	"90 106 80 200"		// darker background color; used for background of scrollbars
-		"WindowBG"			"62 70 55 200"		// background color of text edit panes (chat, text entries, etc.)
-		"SelectionBG"		"90 84 75 200"		// background color of any selected text or menu item
-		"SelectionBG2"	"69 64 57 200"		// selection background in window w/o focus
-		"ListBG"				"39 36 34 200"		// background of server browser, buddy list, etc.
+		"ControlBG"				"69 71 90 200"		// background color of controls
+		"ControlDarkBG"			"49 50 68 200"		// darker background color; used for background of scrollbars
+		"WindowBG"				"30 30 46 200"		// background color of text edit panes (chat, text entries, etc.)
+		"SelectionBG"			"91 91 255 200"		// background color of any selected text or menu item
+		"SelectionBG2"			"180 190 254 200"		// selection background in window w/o focus
+		"ListBG"				"24 24 37 200"		// background of server browser, buddy list, etc.
 	}
 
 	BaseSettings
@@ -112,7 +111,7 @@ Scheme
 		ListPanel.TextColor									"OffWhite"
 		ListPanel.BgColor										"DarkBG"
 		ListPanel.SelectedBgColor						"Main Theme"
-		ListPanel.SelectedOutOfFocusBgColor	"DarkBGIanctive"
+		ListPanel.SelectedOutOfFocusBgColor	"DarkBGInactive"
 
 		MainMenu.TextColor			"White"
 		MainMenu.ArmedTextColor	"Main Theme"
@@ -211,7 +210,7 @@ Scheme
 		ToggleButton.SelectedTextColor	"White"
 
 		Tooltip.TextColor		"White"
-		Tooltip.BgColor			"GrayDarkest"
+		Tooltip.BgColor			"DarkBG"
 
 		TreeView.BgColor	"DarkBG"
 
