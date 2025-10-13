@@ -1,3 +1,6 @@
+// For Future Reference
+// Don't Touch info.vdf
+
 #base "SourceSchemeBase.res"
 
 Scheme
