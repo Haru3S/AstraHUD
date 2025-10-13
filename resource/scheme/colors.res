@@ -10,17 +10,17 @@ Scheme
 		"White"											"219 232 253 255"
 		"WhiteDark"										"172 173 175 255"
 		"WhiteGray"										"127 128 130 255"
-		"GrayLight"										"77 78 82 255"
-		"GrayMedium"									"62 63 66 255"
-		"GrayDark"										"46 47 51 255"
-		"GrayDarker"									"37 38 40 255"
-		"GrayDarkest"									"27 28 30 255"
-		"BlackLight"									"20 21 23 255"
+		"GrayLight"										"186 194 222 255"
+		"GrayMedium"									"166 173 200 255"
+		"GrayDark"										"49 50 68 255"
+		"GrayDarker"									"24 24 37 255"
+		"GrayDarkest"									"17 17 27 255"
+		"BlackLight"									"30 30 30 255"
 		"BlackDark"										"15 16 18 255"
 		"Black"											"0 0 0 255"
 		"TransparentBlack"								"0 0 0 150"
 		"TransparentLightBlack"							"0 0 0 100"
-		"TransparentGrayDarkest"						"27 28 30 200"
+		"TransparentGrayDarkest"						"147 143 178 200"
 		"TransparentWhite"								"219 232 253 150"
 
 		//===============================================================
@@ -82,7 +82,7 @@ Scheme
 		"BrightYellow"									"255 204 94 255"
 		"GreenSolid"									"107 255 94 255"
 
-		"FooterBGBlack"									"24 24 24 255"
+		"FooterBGBlack"									"24 24 37 255"
 
 		"HUDBlueTeam"									"94 156 255 255"
 		"HUDRedTeam"									"255 94 135 255"
