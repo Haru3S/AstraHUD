@@ -398,7 +398,7 @@
 		"TeamBlue"		"Blue"
 		"TeamRed"		"Red"
 		"IconColor"		"White"
-		"LocalPlayerColor"	"Black"
+		"LocalPlayerColor"	"WhiteFull" // Killfeed icons local
 
 		"BaseBackgroundColor"	"TransparentGrayDarkest"
 		"LocalBackgroundColor"	"TransparentWhite"

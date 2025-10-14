@@ -20,8 +20,8 @@ Scheme
 		"Black"											"0 0 0 255"
 		"TransparentBlack"								"0 0 0 150"
 		"TransparentLightBlack"							"0 0 0 100"
-		"TransparentGrayDarkest"						"147 143 178 200"
-		"TransparentWhite"								"219 232 253 150"
+		"TransparentGrayDarkest"						"17 17 27 200" // Used for backgrounds in HUD's
+		"TransparentWhite"								"30 30 46 150" // Player Killfeed
 
 		//===============================================================
 		// ITEM QUALITY COLOURS
@@ -97,7 +97,7 @@ Scheme
 
 		"CreditsGreen"									"107 255 94 255"
 
-		"Gray"											"180 190 254 255"
+		"Gray"											"186 194 222 255" // Subtext for certain menus
 
 		"Blank"											"0 0 0 0"
 		"ForTesting"									"255 0 0 32"
