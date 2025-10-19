@@ -165,5 +165,9 @@ A TF2 HUD originally designed by Peaches and modified by [Rayna](https://github.
 	</tbody>
 </table>
 
+### 🌟 Credits
 
-
+**Base HUD** from PapaPeach's [Xhud](https://github.com/PapaPeach/xhud)
+**Framework For Materials And Icons** from Hypnotize's [various HUDs](https://github.com/Hypnootize)
+**HUD Documentation**: by [JarateKing](https://github.com/JarateKing)
+**Closed Caption Framwork** from Clovervidia's [custom captions](https://github.com/clovervidia/clovervidias-captions)
