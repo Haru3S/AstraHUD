@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/github/stars/Haru3S/AstraHUD?colorA=363a4f&colorB=b7bdf8&style=for-the-badge&logo=data:image/svg+xml;base64,[SVG_BASE64]">
   </a>
   <a href="https://github.com/Haru3S/AstraHUD/releases/latest">
-    <img src="https://img.shields.io/github/v/tag/Haru3S/AstraHUD?colorA=363a4f&colorB=a6da95&style=for-the-badge&logo=github&logoColor=cad3f5">
+    <img src="https://img.shields.io/github/v/tag/Haru3S/AstraHUD?colorA=363a4f&colorB=a6da95&style=for-the-badge&logo=github&logoColor=cad3f5&label=Release">
   </a>
   <a href="https://github.com/Haru3S/AstraHUD/issues">
     <img src="https://img.shields.io/github/issues/Haru3S/AstraHUD?colorA=363a4f&colorB=f5a97f&style=for-the-badge&logo=data:image/svg+xml;base64,[SVG_BASE64]">
