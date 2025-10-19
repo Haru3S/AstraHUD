@@ -27,9 +27,12 @@ A TF2 HUD originally designed by Peaches and modified by [Rayna](https://github.
 
 ### 🖼️ Screenshots
 
-> [!NOTE]
-> 🦗 *cricket noises* 
-> *more cricket sounds*
+<img src="https://github.com/Haru3S/AstraHUD/blob/release/.github/assets/screenshots/20251018215144_1.jpg?raw=true"/>
+<img src="https://github.com/Haru3S/AstraHUD/blob/release/.github/assets/screenshots/20251018215530_1.jpg?raw=true"/>
+<img src="https://github.com/Haru3S/AstraHUD/blob/release/.github/assets/screenshots/20251018215709_1.jpg?raw=true"/>
+<img src="https://github.com/Haru3S/AstraHUD/blob/release/.github/assets/screenshots/20251018215802_1.jpg?raw=true"/>
+<img src="https://github.com/Haru3S/AstraHUD/blob/release/.github/assets/screenshots/20251018215834_1.jpg?raw=true"/>
+<img src="https://github.com/Haru3S/AstraHUD/blob/release/.github/assets/screenshots/20251018215848_1.jpg?raw=true"/>
 
 ### 🎨 Palette
 **AstraHUD** features a higher contrast version of Catppuccin Mocha called **Astrappuccin**. This makes it easier to read and contrast better when looking at the scoreboard/leaderboard and or the actual game HUD itself.
