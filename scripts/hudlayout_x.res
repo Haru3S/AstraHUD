@@ -398,10 +398,10 @@
 		"TeamBlue"		"Blue"
 		"TeamRed"		"Red"
 		"IconColor"		"White"
-		"LocalPlayerColor"	"WhiteFull" // Killfeed icons local
+		"LocalPlayerColor"	"Black" // Killfeed icons local
 
 		"BaseBackgroundColor"	"TransparentGrayDarkest"
-		"LocalBackgroundColor"	"TransparentWhite"
+		"LocalBackgroundColor"	"White"
 	}
 
 	HudMessage
