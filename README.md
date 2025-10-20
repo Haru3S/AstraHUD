@@ -8,6 +8,8 @@
 
 <h3 align="center">AstraHUD</h3>
 
+<h6 align="center">ˈæstrər ˌeɪtʃˌjuːˈdiː</h6>
+
 <p align=center>
     <img src="https://raw.githubusercontent.com/Haru3S/AstraHUD/refs/heads/release/.github/src/AstraHUD%20Colours.svg" width="400" />
 </p>
