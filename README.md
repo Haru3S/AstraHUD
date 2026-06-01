@@ -31,7 +31,7 @@
 > [!NOTE]
 > (AstraHUD is a fork of [Peaches'](https://github.com/PapaPeach) [Xhud](https://github.com/PapaPeach/xhud))
 
-A TF2 HUD originally designed by Peaches and modified by [Rayna](https://github.com/Haru3S). This modification of the HUD adds extra eye candy and a alternative colour palette based on [Catppuccin](https://github.com/catppuccin/catppuccin) Mocha but with higher contrast.
+A TF2 HUD originally designed by Peaches and modified by [Haru3S](https://github.com/Haru3S). This modification of the HUD adds extra eye candy and a alternative colour palette based on [Catppuccin](https://github.com/catppuccin/catppuccin) Mocha but with higher contrast.
 
 </p>
 
